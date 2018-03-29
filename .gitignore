@@ -1,3 +1,6 @@
 .idea
 target
 kafka-test.iml
+.classpath
+.settings
+.project
